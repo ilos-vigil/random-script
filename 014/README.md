@@ -25,7 +25,7 @@ $$
 
 * Result
 
-![Result](./img/01.asm.png)
+![Result](./img/01.asm.png?raw=true)
 
 ## 02.asm
 
@@ -39,11 +39,11 @@ Read text file `textfile.txt`, then print the read text
 
 Print a character multiple times with background
 
-![Result](./img/04.asm.png)
+![Result](./img/04.asm.png?raw=true)
 
 ## 05.asm
 
 Print characters B-Z, each with width 25, then shift up some printed characters.
 
-![Printed characters](img/05-1.asm.png)
-![Shifted characters](img/05-2.asm.png)
+![Printed characters](img/05-1.asm.png?raw=true)
+![Shifted characters](img/05-2.asm.png?raw=true)
