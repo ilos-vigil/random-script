@@ -21,4 +21,5 @@ Random script and software from class, practice, etc.
 | 013       | Keras demo                              | Keras demo for classification with MNIST handwritten digits and Fashion MNIST |
 | 014       | Assembly script collection              | Some assembly script for Intel 8086                                           |
 | 015       | Wine Classification                     | Wine Classification with Scikit-Learn and MLPClassification                   |
-| 016       | Eight queens puzzle                     | Fast eight queens puzzle solver &with support custom board size               |
+| 016       | Eight queens puzzle                     | Fast eight queens puzzle solver with support custom board size                |
+| 017       | Precision-Recall Visualization          | Precision-Recall Visualization for Information Retrieval                      |
