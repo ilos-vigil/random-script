@@ -23,3 +23,4 @@ Random script and software from class, practice, etc.
 | 015       | Wine Classification                     | Wine Classification with Scikit-Learn and MLPClassification                   |
 | 016       | Eight queens puzzle                     | Fast eight queens puzzle solver with support custom board size                |
 | 017       | Precision-Recall Visualization          | Precision-Recall Visualization for Information Retrieval                      |
+| 018 | Joint payment calculator | Calculate how much you should pay on joint payment |
